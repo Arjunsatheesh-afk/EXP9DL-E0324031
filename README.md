@@ -4,7 +4,7 @@ This repository contains a **from-scratch implementation** of a compact, StyleGA
 
 ---
 
-## 📚 Core Theoretical Concepts
+## Core Theoretical Concepts
 
 ### 1. What is a GAN?
 A **Generative Adversarial Network (GAN)** is a class of machine learning frameworks designed by Ian Goodfellow and his colleagues in 2014. It consists of two neural networks contesting with each other in a zero-sum game framework:
